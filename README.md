@@ -20,25 +20,25 @@ This notes guide covers every major Data Structure and Algorithm topic needed to
 | # | Chapter | Examples Included |
 |---|---------|------------------|
 | 00 | Introduction & Complexity Analysis | 4 examples |
-| 01 | Arrays | 6 examples |
-| 02 | Sliding Window | 5 examples |
-| 03 | Two Pointers | 5 examples |
-| 04 | Strings | 5 examples |
-| 05 | Sorting & Searching | 6 examples |
-| 06 | Linked List | 6 examples |
-| 07 | Stack | 5 examples |
-| 08 | Queue | 4 examples |
-| 09 | Priority Queue & Heap | 5 examples |
-| 10 | Trees & Tries | 6 examples |
-| 11 | Graphs | 6 examples |
-| 12 | Dynamic Programming | 6 examples |
-| 13 | Greedy | 4 examples |
-| 14 | Intervals | 4 examples |
-| 15 | Backtracking | 5 examples |
-| 16 | Math & Geometry | 4 examples |
-| 17 | Matrix | 4 examples |
-| 18 | Design | 4 examples |
-| 19 | Bit Manipulation | 4 examples |
+| 01 | Arrays | 10 examples |
+| 02 | Sliding Window | 6 examples |
+| 03 | Two Pointers | 7 examples |
+| 04 | Strings | 6 examples |
+| 05 | Sorting & Searching | 13 examples |
+| 06 | Linked List | 12 examples |
+| 07 | Stack | 9 examples |
+| 08 | Queue | 5 examples |
+| 09 | Priority Queue & Heap | 9 examples |
+| 10 | Trees & Tries | 22 examples |
+| 11 | Graphs | 22 examples |
+| 12 | Dynamic Programming | 20 examples |
+| 13 | Greedy | 7 examples |
+| 14 | Intervals | 6 examples |
+| 15 | Backtracking | 10 examples |
+| 16 | Math & Geometry | 6 examples |
+| 17 | Matrix | 8 examples |
+| 18 | Design | 8 examples |
+| 19 | Bit Manipulation | 10 examples |
 
 ---
 
